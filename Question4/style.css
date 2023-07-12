@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: grey;
+    font-family: 'Times New Roman', Times, serif;
+}
+.myclass h1{
+    text-transform: uppercase;
+    font-size: 170px;
+    /* font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; */
+    text-align: center;
+
+     
+}

@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: gray;
+}
+
+#outer p{
+    font-size: 25px;
+    margin-bottom: 30px;
+}
+#inner p {
+    font-size: 10px;
+    
+}
