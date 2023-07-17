@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+height: 200px;
+width: 200px;
+background-color: brown;
+}
+    @media(max-width:300px){
+        .div{
+            background-color: blue;
+        }
+    }
+    @media(min-width:300px)and(max-width:400px) {
+        .div{
+            background-color: red;
+        }
+    }
+    @media(min-width:400px)and(max-width:600px) {
+        .div{
+            background-color: rgb(246, 209, 3);
+        }
+    }
+    @media(min-width:600px) {
+        .div{
+            background-color: rgb(63, 248, 49);
+        }
+    }
